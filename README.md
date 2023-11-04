@@ -8,7 +8,7 @@ I'm a software engineer with a passion for coding and technology. I'm constantly
 - 🌱 I’m always learning, whether it's a new programming language, framework, or a new technology trend.
 - 💬 Ask me about anything related to software development, coding challenges, or project ideas.
 - 📫 You can reach me at [neerajprajapatisde@gmail.com](mailto:neerajprajapatisde@gmail.com).
-- 📝 You can check out my portfolio at [[neerajprajapati.github.io](https://neerajprajapati.github.io).](https://neerajprajapatisde.github.io/Portfolio/).
+- 📝 You can check out my portfolio at [[neerajprajapati.github.io](https://neerajprajapatisde.github.io/Portfolio/).
 
 ## Skills
 
